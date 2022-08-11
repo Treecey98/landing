@@ -1,0 +1,27 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2C2B2B;
+}
+
+.footer ul {
+  list-style: none;
+}
+
+.footer ul > li {
+  display: inline;
+  padding: 8px;
+}
+
+.footer a {
+  color: #1CDD87;
+  font-size: 24px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.fa-brands {
+  width: 1.25em;
+}
